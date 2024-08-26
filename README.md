@@ -6,11 +6,11 @@ This project focuses on developing a deep learning-based solution for the detect
 
 Models Used:
 
-DenseNet 121
+--DenseNet 121
 
-ResNet 50
+--ResNet 50
 
-EfficientNet B7 (Best performing model)
+--EfficientNet B7 (Best performing model)
 
 📈 Performance Metrics
 
@@ -20,8 +20,8 @@ EfficientNet B7 outperformed other models, making it the optimal choice for monk
 
 🧪 Methodology
 
-Data Augmentation: Applied to the dataset to improve the robustness of the model.
+1.Data Augmentation: Applied to the dataset to improve the robustness of the model.
 
-Model Training: Three deep learning models were trained and evaluated.
+2.Model Training: Three deep learning models were trained and evaluated.
 
-Performance Evaluation: Models were compared based on precision, recall, and accuracy.
+3.Performance Evaluation: Models were compared based on precision, recall, and accuracy.
